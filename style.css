@@ -1,0 +1,19 @@
+p {
+    font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 120%;
+}
+
+a {
+    color: #584b7d;
+    text-decoration: none;
+}
+
+img.logo {
+    width:200px;
+    float:right;
+    display:block;
+}
+
+img.sig {
+    height:50px;
+}
